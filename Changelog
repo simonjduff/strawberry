@@ -2,7 +2,7 @@ Strawberry Music Player
 =======================
 ChangeLog
 
-Unreleased:
+Version 1.2.29 (2026.09.07):
 
   Enhancements:
     * Switched MusixMatch lyrics to use API instead of scraping the HTML pages
