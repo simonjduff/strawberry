@@ -29,7 +29,7 @@
     </widget>
    </item>
    <item>
-    <widget class="QGroupBox" name="groupBox">
+    <widget class="QGroupBox" name="groupbox_group_by">
      <property name="title">
       <string>Group Collection by...</string>
      </property>
