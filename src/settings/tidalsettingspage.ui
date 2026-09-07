@@ -316,8 +316,6 @@
  </tabstops>
  <resources>
   <include location="../../data/icons.qrc"/>
-  <include location="../../data/icons.qrc"/>
-  <include location="../../data/icons.qrc"/>
  </resources>
  <connections/>
 </ui>
