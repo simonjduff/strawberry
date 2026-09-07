@@ -332,12 +332,14 @@
   <tabstop>checkbox_use_custom_api_credentials</tabstop>
   <tabstop>client_id</tabstop>
   <tabstop>client_secret</tabstop>
+  <tabstop>button_login</tabstop>
   <tabstop>searchdelay</tabstop>
   <tabstop>artistssearchlimit</tabstop>
   <tabstop>albumssearchlimit</tabstop>
   <tabstop>songssearchlimit</tabstop>
   <tabstop>checkbox_download_album_covers</tabstop>
   <tabstop>checkbox_fetchalbums</tabstop>
+  <tabstop>checkbox_remove_remastered</tabstop>
  </tabstops>
  <resources>
   <include location="../../data/icons.qrc"/>

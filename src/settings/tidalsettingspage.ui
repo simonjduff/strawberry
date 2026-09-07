@@ -311,6 +311,8 @@
   <tabstop>checkbox_fetchalbums</tabstop>
   <tabstop>coversize</tabstop>
   <tabstop>streamurl</tabstop>
+  <tabstop>checkbox_album_explicit</tabstop>
+  <tabstop>checkbox_remove_remastered</tabstop>
  </tabstops>
  <resources>
   <include location="../../data/icons.qrc"/>

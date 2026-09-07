@@ -308,6 +308,7 @@
   </layout>
  </widget>
  <tabstops>
+  <tabstop>checkbox_kglobalaccel</tabstop>
   <tabstop>checkbox_x11</tabstop>
   <tabstop>button_macos_preferences</tabstop>
   <tabstop>list</tabstop>

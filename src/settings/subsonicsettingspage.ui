@@ -280,8 +280,15 @@
   <tabstop>server_url</tabstop>
   <tabstop>username</tabstop>
   <tabstop>password</tabstop>
+  <tabstop>auth_method_hex</tabstop>
+  <tabstop>auth_method_md5</tabstop>
+  <tabstop>checkbox_http2</tabstop>
   <tabstop>checkbox_verify_certificate</tabstop>
   <tabstop>checkbox_download_album_covers</tabstop>
+  <tabstop>checkbox_use_album_id_for_album_covers</tabstop>
+  <tabstop>checkbox_server_scrobbling</tabstop>
+  <tabstop>button_test</tabstop>
+  <tabstop>button_deletesongs</tabstop>
  </tabstops>
  <resources>
   <include location="../../data/data.qrc"/>

@@ -421,6 +421,7 @@
   <tabstop>combobox_first</tabstop>
   <tabstop>combobox_second</tabstop>
   <tabstop>combobox_third</tabstop>
+  <tabstop>checkbox_separate_albums_by_grouping</tabstop>
   <tabstop>buttonbox</tabstop>
  </tabstops>
  <resources>
