@@ -154,7 +154,7 @@ bool CommandlineOptions::Parse() {
 #  define OPTSTR(s) s
 #endif
 
-  static const struct option kOptions[] = {
+  static constexpr struct option kOptions[] = {
       { OPTSTR("help"), no_argument, nullptr, 'h' },
       { OPTSTR("play"), no_argument, nullptr, 'p' },
       { OPTSTR("play-pause"), no_argument, nullptr, 't' },
